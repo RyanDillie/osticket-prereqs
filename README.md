@@ -17,13 +17,18 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites we will need</h2> 
+<h2>List of Prerequisites I used for the installation are listed below</h2> 
 
-- Install IIS
-- Install PHP Manager
-- Install Rewrite Module
-- Install PHP 7.3.8
-- Install 
+- IIS
+- PHP Manager
+- Rewrite Module
+- PHP 7.3.8
+- VC_redist.x86.exe
+- mysql-5.5.62-win32.msi
+- osTicket-v1.15.8.zip
+- Microsoft Azure
+- Resource group in Azure
+- Virtual machine in Azure
 
 <h2>Installation Steps</h2>
 
@@ -31,7 +36,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After I 
 </p>
 <br />
 
