@@ -34,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After I  
+After I created the vitual machine in azure I went ahead and used remote desktop to connect to the VM and went ahead and staring installing all of the programs listed above  
 </p>
 <br />
 
