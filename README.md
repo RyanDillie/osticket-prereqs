@@ -12,6 +12,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- This Was All Done Inside A Vitual Machine
 
 <h2>Operating Systems Used </h2>
 
@@ -26,9 +27,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - VC_redist.x86.exe
 - mysql-5.5.62-win32.msi
 - osTicket-v1.15.8.zip
-- Microsoft Azure
-- Resource group in Azure
-- Virtual machine in Azure
 
 <h2>Installation Steps</h2>
 
@@ -36,7 +34,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After I 
+After I  
 </p>
 <br />
 
