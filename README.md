@@ -218,10 +218,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p align="center">
 <img src="https://i.imgur.com/F52ypHn.png" height="80%" width="80%" alt="Azure Free Account"/>
 
-<h3>Tips!</h3>
-
-- To create tickets as a user: http://localhost/osTicket/
-- To log in as an Admin or helpdesk professional: http://localhost/osTicket/scp
 
 <h3>Step 13: Post-Intallation Cleanup</h3>
 
