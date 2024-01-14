@@ -37,10 +37,10 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Underneath Programs, select Uninstall a Program
 - On the left side of the screen, select Turn Windows Features On or Off
 - Select Internet Information Services (IIS), and select OK
-
+![preconfignewdate](https://github.com/RyanDillie/osticket-prereqs/assets/155100258/d67f20ec-cdac-4a60-909e-3aa3c523314b)
 
 <p align="center">
-<img src="https://i.imgur.com/NbQvYeL.png.png" height="80%" width="80%" alt="Azure Free Account"/> 
+
 </p>
 
 
