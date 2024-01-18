@@ -213,7 +213,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/Npqj9Us.png" height="80%" width="80%" alt="Azure Free Account"/>
 
 
-🎉Congratulations! You have sucessfully installed osTicket adn all of its pre-requisite files!🎉
+ Congratulations you have successfully installed osTicket and all of its pre-requisite files.
 
 <p align="center">
 <img src="https://i.imgur.com/F52ypHn.png" height="80%" width="80%" alt="Azure Free Account"/>
@@ -234,4 +234,4 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>	
 
 
-Click [here](https://github.com/RyanDillie/post-install-config) to move on to the second part of this tutorial.
+
